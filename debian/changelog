@@ -1,3 +1,9 @@
+libnfnetlink (1.0.1-2~precise0+exo1) precise; urgency=medium
+
+  * Backport to Precise. No changes.
+
+ -- Vincent Bernat <bernat@debian.org>  Wed, 30 Sep 2015 10:39:19 +0200
+
 libnfnetlink (1.0.1-2) unstable; urgency=low
 
   * [0ea816f] Imported Upstream version 1.0.1
